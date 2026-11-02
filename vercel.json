@@ -32,10 +32,6 @@
   ],
   "routes": [
     {
-      "src": "/api/outlets",
-      "dest": "/api/outlets.js"
-    },
-    {
       "handle": "filesystem"
     },
     {
@@ -44,4 +40,3 @@
     }
   ]
 }
-
