@@ -420,8 +420,11 @@ function renderCards(items) {
                   💬 No Telp -
                 </button>`
           }
-          <button class="action-btn action-full" onclick="focusOnMap(${o.lat}, ${o.lng}, '${o.id}')" ${!hasCoordinates ? 'disabled style="display:none;"' : ''}>
-            🗺️ Tampilkan di Peta
+          <button class="action-btn action-secondary" onclick="copyAddress('${escapeHtml(o.address)}', '${escapeHtml(o.name)}')">
+            📋 Salin Alamat
+          </button>
+          <button class="action-btn action-secondary" onclick="focusOnMap(${o.lat}, ${o.lng}, '${o.id}')" ${!hasCoordinates ? 'disabled style="display:none;"' : ''}>
+            🗺️ Lihat di Peta
           </button>
         </div>
       </div>
@@ -429,6 +432,23 @@ function renderCards(items) {
     })
     .join('');
 }
+
+// Copy Address helper
+window.copyAddress = function (address, name) {
+  if (!address) {
+    showToast('Alamat belum tersedia untuk outlet ini.');
+    return;
+  }
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(address).then(() => {
+      showToast(`📋 Alamat ${name} berhasil disalin!`);
+    }).catch(() => {
+      prompt('Salin alamat:', address);
+    });
+  } else {
+    prompt('Salin alamat:', address);
+  }
+};
 
 // Operating Hours Modal
 window.openHoursModal = function (outletId) {
@@ -614,3 +634,4 @@ function escapeHtml(str) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#039;');
 }
+
