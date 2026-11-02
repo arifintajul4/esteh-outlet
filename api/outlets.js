@@ -34,7 +34,10 @@ module.exports = async (req, res) => {
     if (upstream.ok) {
       const data = await upstream.json();
       const rawOutlets = data.data || [];
-      const cleaned = rawOutlets.map(o => ({
+      // HANYA outlet aktif (active === true)
+      const cleaned = rawOutlets
+        .filter(o => o.active === true)
+        .map(o => ({
         id: o._id,
         code: o.noKebun || '',
         name: o.nameKebun || '',

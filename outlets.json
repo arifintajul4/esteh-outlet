@@ -104,58 +104,6 @@
     ]
   },
   {
-    "id": "691ac1789e08c7743737c775",
-    "code": "1127",
-    "name": "Tuparev Cirebon",
-    "address": "Jl. Tuparev No.32, Kedungjaya, Kec. Kedawung, 45153",
-    "city": "KAB CIREBON",
-    "province": "Jawa Barat",
-    "region": "NON JABODETABEK",
-    "area": "BARAT",
-    "lat": -6.71131523580425,
-    "lng": 108.545599016591,
-    "phone": "6282139030428",
-    "email": "faridsandy@estehindonesia.com",
-    "active": false,
-    "hours": [
-      {
-        "day": "SENIN",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "SELASA",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "RABU",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "KAMIS",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "JUMAT",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "SABTU",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "MINGGU",
-        "open": "08:00",
-        "close": "22:00"
-      }
-    ]
-  },
-  {
     "id": "691ac20e9e08c7743737c968",
     "code": "1128",
     "name": "Indramayu",
@@ -325,58 +273,6 @@
     "phone": "6282139030428",
     "email": "faridsandy@estehindonesia.com",
     "active": true,
-    "hours": [
-      {
-        "day": "SENIN",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "SELASA",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "RABU",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "KAMIS",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "JUMAT",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "SABTU",
-        "open": "08:00",
-        "close": "22:00"
-      },
-      {
-        "day": "MINGGU",
-        "open": "08:00",
-        "close": "22:00"
-      }
-    ]
-  },
-  {
-    "id": "692eab919e08c774375e154d",
-    "code": "1130",
-    "name": "Mulyosari",
-    "address": "Jl. Raya Mulyosari No.336, Mulyorejo, Kec. Mulyorejo, 60115",
-    "city": "KOTA SURABAYA",
-    "province": "Jawa Timur",
-    "region": "NON JABODETABEK",
-    "area": "TIMUR",
-    "lat": -7.2702063271978,
-    "lng": 112.79650521404,
-    "phone": "6283147667077",
-    "email": "pamungkas@estehindonesia.com",
-    "active": false,
     "hours": [
       {
         "day": "SENIN",
@@ -1870,21 +1766,5 @@
         "close": "22:00"
       }
     ]
-  },
-  {
-    "id": "6ae75392d618fc230e12fe25",
-    "code": "9999",
-    "name": "Kebun Test Copilot",
-    "address": "Jl. Raya Esteh No. 1",
-    "city": "BATU",
-    "province": "Aceh",
-    "region": "JABODETABEK",
-    "area": "BARAT",
-    "lat": null,
-    "lng": null,
-    "phone": "6281234567890",
-    "email": "",
-    "active": false,
-    "hours": []
   }
 ]
