@@ -1,0 +1,1890 @@
+[
+  {
+    "id": "6556394a6bf0aa3c80c15c2c",
+    "code": "0001",
+    "name": "Pandu Raya",
+    "address": "Jl. Achmad Adnawijaya RT.02/05, Tegal Gundil, Kec. Bogor Utara, 16152",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.57644539845173,
+    "lng": 106.817820499452,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "68b52565eb998dc137f324b5",
+    "code": "1115",
+    "name": "Tehras Perpus",
+    "address": "Jl. Kapten Muslihat No.21, Pabaton, Kec. Bogor Tengah, 16122",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.59630365863574,
+    "lng": 106.79311651998,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "691ac1789e08c7743737c775",
+    "code": "1127",
+    "name": "Tuparev Cirebon",
+    "address": "Jl. Tuparev No.32, Kedungjaya, Kec. Kedawung, 45153",
+    "city": "KAB CIREBON",
+    "province": "Jawa Barat",
+    "region": "NON JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.71131523580425,
+    "lng": 108.545599016591,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": false,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "691ac20e9e08c7743737c968",
+    "code": "1128",
+    "name": "Indramayu",
+    "address": "Jl. Jend. Sudirman No.65, Lemahabang, Kec. Indramayu, 45212",
+    "city": "KAB INDRAMAYU",
+    "province": "Jawa Barat",
+    "region": "NON JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.33198113198088,
+    "lng": 108.330139854009,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "691ac2a79e08c7743737cb70",
+    "code": "1129",
+    "name": "Jatinangor Town Square",
+    "address": "Jl. Raya Jatinangor No.150, Cikeruh, Kec. Jatinangor, 45363",
+    "city": "KAB SUMEDANG",
+    "province": "Jawa Barat",
+    "region": "NON JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.93398437742766,
+    "lng": 107.771645399202,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "691ac3169e08c7743737ccff",
+    "code": "1126",
+    "name": "The Park Sawangan",
+    "address": "Jl. Raya Parung - Ciputat No.1 RT.06/04, Serua, Kec. Bojongsari, 16517",
+    "city": "KOTA DEPOK",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.37596658180718,
+    "lng": 106.744967877911,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "691ecbca9e08c774373e5f2a",
+    "code": "0005",
+    "name": "Jalan Baru",
+    "address": "Jl. Sholeh Iskandar No.42 RT.04/09, Kp. Parung Jambu, Kedung Jaya, Kec. Tanah Sereal, 16164",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.55891047799391,
+    "lng": 106.785660233803,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "692eab919e08c774375e154d",
+    "code": "1130",
+    "name": "Mulyosari",
+    "address": "Jl. Raya Mulyosari No.336, Mulyorejo, Kec. Mulyorejo, 60115",
+    "city": "KOTA SURABAYA",
+    "province": "Jawa Timur",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -7.2702063271978,
+    "lng": 112.79650521404,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": false,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "692eac2e9e08c774375e1728",
+    "code": "1131",
+    "name": "Rungkut",
+    "address": "Jl. Rungkut Madya No.29, Rungkut Kidul, Kec. Rungkut, 60293",
+    "city": "KOTA SURABAYA",
+    "province": "Jawa Timur",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -7.331081,
+    "lng": 112.773563,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "69b2268fb4975b6716587e63",
+    "code": "1132",
+    "name": "AEON PVJ Bandung",
+    "address": "Resort Lifestyle Place, Paris Van Java, Jl. Sukajadi No.131-139, Cipedes, Kec. Sukajadi, 40162",
+    "city": "KOTA BANDUNG",
+    "province": "Jawa Barat",
+    "region": "NON JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.88905400643757,
+    "lng": 107.595854391404,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "69b22725b4975b6716587ec6",
+    "code": "1133",
+    "name": "Condet",
+    "address": "Jl. Raya Condet No.6 RT.06/02, Balekambang, Kec. Kramat Jati, 13530",
+    "city": "KODYA JAKARTA TIMUR",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.28189970367156,
+    "lng": 106.854951866152,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "69b7b52fb4975b6716633562",
+    "code": "1001",
+    "name": "Tasik Siliwangi",
+    "address": "Jl. Siliwangi No.61, Kahuripan, Kec. Tawang, 46115",
+    "city": "KAB TASIKMALAYA",
+    "province": "Jawa Barat",
+    "region": "NON JABODETABEK",
+    "area": "BARAT",
+    "lat": -7.34152624409418,
+    "lng": 108.225233617462,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "69b7b5eeb4975b6716633708",
+    "code": "1134",
+    "name": "Ciomas",
+    "address": "Jl. Re. Abdullah No.6B RT.02/01, Pasirmulya, Kec. Bogor Barat, 16118",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.60063247070328,
+    "lng": 106.779428058044,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "69d3a9f80f30845e09478576",
+    "code": "1135",
+    "name": "Deltasari Surabaya",
+    "address": "Jl. Delta Sari Indah No.461, Kureksari, Kec. Waru, 61256",
+    "city": "KAB SIDOARJO",
+    "province": "Jawa Timur",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -7.36452911720799,
+    "lng": 112.734324297804,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a06dfce007ba6037034d0e6",
+    "code": "1140",
+    "name": "Boulevard Bintaro",
+    "address": "Ruko Anggrek Loka Blok A1/17A, Jl. Graha Raya Bintaro Jaya Ruko Orlin Arcade 1 Blok JA. 30, Paku Jaya, Kec. Serpong Utara, 15220",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "Banten",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.23292633612299,
+    "lng": 106.679305740732,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a0faf48e8164998ada27ab6",
+    "code": "1141",
+    "name": "Pamulang",
+    "address": "Jl. Pajajaran No.42, Pamulang Barat, Kec. Pamulang, 15417",
+    "city": "KOTA TANGERANG SELATAN",
+    "province": "Banten",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.339180209315,
+    "lng": 106.738948034518,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a18f013e8164998adb85860",
+    "code": "1137",
+    "name": "Semeru Malang",
+    "address": "Jl. Semeru No.46, Oro-oro Dowo, Kec. Klojen, 65119",
+    "city": "KOTA MALANG",
+    "province": "Jawa Timur",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -7.97417801105419,
+    "lng": 112.625373477911,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a3c92e9e8164998ad0dd490",
+    "code": "1138",
+    "name": "Toddopuli Makassar",
+    "address": "Jl. Toddopuli Raya 41-53, Borong, Kec. Manggala, 90222",
+    "city": "KOTA MAKASAR",
+    "province": "Sulawesi Selatan",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -5.16432115061175,
+    "lng": 119.451211476959,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a3c938ee8164998ad0dd554",
+    "code": "1142",
+    "name": "Latimojong Makassar",
+    "address": "Jl. Gunung Latimojong No.57B, Lariang Bangi, Kec. Makassar, 90145",
+    "city": "KOTA MAKASAR",
+    "province": "Sulawesi Selatan",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -5.1352118990009,
+    "lng": 119.420107177911,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a474f66e8164998ad27e05b",
+    "code": "1136",
+    "name": "UNAS",
+    "address": "Jl. Salihara No.44 RT.14/03, Kec. Pasar Minggu, 12520",
+    "city": "KODYA JAKARTA SELATAN",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.28051919658948,
+    "lng": 106.838678962918,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b24ace8164998ad31abe5",
+    "code": "1113",
+    "name": "The Park Pejaten",
+    "address": "Jl. Warung Jati Barat No.39 RT.01/05, Jati Padang, Kec. Pasar Minggu, 12540",
+    "city": "KODYA JAKARTA SELATAN",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.28009740470721,
+    "lng": 106.828874680011,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b2563e8164998ad31ae4c",
+    "code": "1114",
+    "name": "Botani Square",
+    "address": "Jl. Raya Pajajaran No.40, Tugu Kujang, Kec. Bogor Tengah, 16127",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.6012462478737,
+    "lng": 106.807162950925,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b2640e8164998ad31b0cb",
+    "code": "1117",
+    "name": "Living World Cibubur",
+    "address": "Jl. Boulevard Kota Wisata, Ciangsana, Kec. Gunung Putri, 16968",
+    "city": "KAB BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.36951506668289,
+    "lng": 106.959105480446,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b26e9e8164998ad31b2bc",
+    "code": "1120",
+    "name": "AEON JGC",
+    "address": "AEON Supermarket Ground Floor, Jl. Jakarta Garden City Boulevard No.1 RT.08/06, Cakung Timur, Kec. Cakung, 13910",
+    "city": "KODYA JAKARTA TIMUR",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.17200163370253,
+    "lng": 106.952204806747,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b278de8164998ad31b463",
+    "code": "1121",
+    "name": "FX Sudirman",
+    "address": "Jl. Jenderal Sudirman, Gelora, Kec. Tanah Abang, 10270",
+    "city": "KODYA JAKARTA PUSAT",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.22446112109764,
+    "lng": 106.803937422089,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b2840e8164998ad31b7a5",
+    "code": "1122",
+    "name": "Lippo Mall Cikarang",
+    "address": "Jl. MH. Thamrin, Cibatu, Kec. Cikarang Selatan, 17530",
+    "city": "KAB BEKASI",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.33385246478577,
+    "lng": 107.136977722089,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a558ea7e8164998ad4ebe78",
+    "code": "1139",
+    "name": "Ketintang Surabaya",
+    "address": "Jl. Ketintang Baru Sel. I, Ketintang, Kec. Gayungan, 60235",
+    "city": "KOTA SURABAYA",
+    "province": "Jawa Timur",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -7.32488730152887,
+    "lng": 112.725316676687,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a6ffb2328982aad59ff401b",
+    "code": "1143",
+    "name": "Tajur",
+    "address": "Jl. Raya Tajur No.88 RT.02/04, Pakuan, Kec. Bogor Selatan, 16134",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.63327396661407,
+    "lng": 106.825533016181,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a7e7ad228982aad592615a0",
+    "code": "1144",
+    "name": "Citeureup",
+    "address": "Jl. Pahlawan No.05 RT.01/03, Citeureup, Kec. Citeureup, 16810",
+    "city": "KAB BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.488862138757354,
+    "lng": 106.88160616966019,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a9a7e123e6d5804199531fc",
+    "code": "1149",
+    "name": "RS Hermina",
+    "address": "Jl. Ring Road Taman Yasmin No.23 RT.08/08, Curugmekar, Kec. Bogor Barat, 16113",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.55727840315809,
+    "lng": 106.77385136880488,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a9e474b3e6d5804199e5e43",
+    "code": "1146",
+    "name": "Waturenggong Bali",
+    "address": "Jl. Waturenggong No.123, Panjer, Kec. Denpasar Selatan, 80234",
+    "city": "KOTA DENPASAR",
+    "province": "Bali",
+    "region": "NON JABODETABEK",
+    "area": "TIMUR",
+    "lat": -8.677623258574107,
+    "lng": 115.22323569510293,
+    "phone": "6283147667077",
+    "email": "pamungkas@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6aa3b2683e6d580419ab7c9f",
+    "code": "1147",
+    "name": "Pemda Cibinong",
+    "address": "Jl. Kol. Edy Yoso Martadipura, Nanggewer, Kec. Cibinong, 16915",
+    "city": "KAB BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.48694754669742,
+    "lng": 106.835302442967,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6abf6c9ebef8a236d6937ada",
+    "code": "1145",
+    "name": "Pomad",
+    "address": "Jl. Mandala Raya No.51A RT.01/09, Ciparigi, Kec. Bogor Utara, 16157",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.547613851868533,
+    "lng": 106.82313773631991,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6acc4d8a43d16c3a684175b3",
+    "code": "1150",
+    "name": "Pondok Kelapa",
+    "address": "Jl. Pondok Kelapa Raya Blok F1 No.1A RT.06/11, Pondok Kelapa, Kec. Duren Sawit, 13450",
+    "city": "KODYA JAKARTA TIMUR",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.2458906106442615,
+    "lng": 106.93505658472742,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6ae418f7baaa252a4f0781f1",
+    "code": "1151",
+    "name": "Ciheuleut",
+    "address": "Jl. Ciheuleut, RT.02/08, Baranangsiang, Kec. Bogor Timur, 16143",
+    "city": "KOTA BOGOR",
+    "province": "Jawa Barat",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.60399447567277,
+    "lng": 106.813227587539,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6a4b23fee8164998ad31a98f",
+    "code": "1112",
+    "name": "Stasiun Jakarta Kota",
+    "address": "Jl. Stasiun Kota No.1, Lada, Pinangsia, Kec. Taman Sari, 11110",
+    "city": "KODYA JAKARTA BARAT",
+    "province": "Daerah Khusus Ibukota Jakarta",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": -6.13807371380328,
+    "lng": 106.814748298483,
+    "phone": "6282139030428",
+    "email": "faridsandy@estehindonesia.com",
+    "active": true,
+    "hours": [
+      {
+        "day": "SENIN",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SELASA",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "RABU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "KAMIS",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "JUMAT",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "SABTU",
+        "open": "08:00",
+        "close": "22:00"
+      },
+      {
+        "day": "MINGGU",
+        "open": "08:00",
+        "close": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "6ae75392d618fc230e12fe25",
+    "code": "9999",
+    "name": "Kebun Test Copilot",
+    "address": "Jl. Raya Esteh No. 1",
+    "city": "BATU",
+    "province": "Aceh",
+    "region": "JABODETABEK",
+    "area": "BARAT",
+    "lat": null,
+    "lng": null,
+    "phone": "6281234567890",
+    "email": "",
+    "active": false,
+    "hours": []
+  }
+]

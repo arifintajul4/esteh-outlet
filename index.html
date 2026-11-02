@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Outlet Esteh Indonesia - Cari & Lokasi GPS Terdekat</title>
+  <meta name="description" content="Cari kebun dan outlet resmi Esteh Indonesia di seluruh Indonesia dengan GPS lokasi terdekat, jam buka, rute Google Maps, dan kontak WhatsApp.">
+  <meta name="theme-color" content="#0d5c3a">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍃</text></svg>">
+  
+  <!-- Preconnect to map tiles -->
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  
+  <!-- Lightweight Leaflet CSS (optional map) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-content">
+      <div class="brand">
+        <span class="brand-icon">🍃</span>
+        <div>
+          <h1 class="brand-title">Esteh Indonesia</h1>
+          <p class="brand-subtitle">Pencari Outlet & Kebun Resmi</p>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="stat-pill" id="totalOutletsPill">37 Outlet</span>
+        <button id="themeToggle" class="icon-btn" title="Ganti Mode Gelap/Terang" aria-label="Toggle Dark Mode">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & Controls Section -->
+  <main class="container">
+    <section class="controls-card">
+      <!-- Search Input -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Cari nama kebun, kota, provinsi, jalan..." 
+          autocomplete="off"
+          spellcheck="false"
+        >
+        <button id="clearSearchBtn" class="clear-btn" style="display: none;" title="Hapus pencarian">✕</button>
+      </div>
+
+      <!-- Action Buttons (GPS & View Toggle) -->
+      <div class="action-row">
+        <button id="gpsBtn" class="btn btn-gps">
+          <span class="gps-icon">📍</span>
+          <span id="gpsBtnText">Cari Sekitar Saya (GPS)</span>
+          <span class="spinner" id="gpsSpinner" style="display:none;"></span>
+        </button>
+
+        <div class="view-toggle">
+          <button id="listViewBtn" class="toggle-btn active" title="Tampilan Kartu">📋 Daftar</button>
+          <button id="mapViewBtn" class="toggle-btn" title="Tampilan Peta">🗺️ Peta</button>
+        </div>
+      </div>
+
+      <!-- GPS Status Banner -->
+      <div id="gpsBanner" class="gps-banner" style="display: none;">
+        <span id="gpsBannerText">📍 Lokasi GPS aktif. Mengurutkan dari outlet terdekat.</span>
+        <button id="resetGpsBtn" class="link-btn">Reset</button>
+      </div>
+
+      <!-- Filter Pills -->
+      <div class="filter-pills" id="filterPills">
+        <button class="pill active" data-filter="all">Semua</button>
+        <button class="pill" data-filter="open_now">🟢 Buka Sekarang</button>
+        <button class="pill" data-filter="jabar">Jawa Barat</button>
+        <button class="pill" data-filter="dki">DKI Jakarta</button>
+        <button class="pill" data-filter="jatim">Jawa Timur</button>
+        <button class="pill" data-filter="luar_jawa">Luar Jawa</button>
+      </div>
+    </section>
+
+    <!-- Map View Container (Hidden by default on mobile or shown when toggled) -->
+    <section id="mapSection" class="map-section" style="display: none;">
+      <div id="map" class="map-container"></div>
+      <div class="map-hint">💡 Klik pin kebun untuk melihat detail & rute navigasi.</div>
+    </section>
+
+    <!-- Results Status Bar -->
+    <div class="results-bar">
+      <span id="resultsCount">Memuat outlet...</span>
+      <span id="sortNotice" class="sort-notice" style="display: none;">Diurutkan berdasarkan jarak terdekat</span>
+    </div>
+
+    <!-- Outlets Grid Container -->
+    <div id="outletsGrid" class="outlets-grid">
+      <!-- Outlets will be rendered here dynamically -->
+    </div>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="empty-state" style="display: none;">
+      <div class="empty-icon">🍃</div>
+      <h3>Tidak ada outlet yang cocok</h3>
+      <p>Coba gunakan kata kunci lain seperti nama kota (misal: "Bogor", "Jakarta", "Surabaya") atau reset filter.</p>
+      <button id="resetFilterBtn" class="btn btn-secondary">Reset Pencarian & Filter</button>
+    </div>
+  </main>
+
+  <!-- Bottom Navigation Modal / Drawer for Operating Hours -->
+  <div id="hoursModal" class="modal-backdrop" style="display: none;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="modalTitle">Jam Operasional</h3>
+        <button id="closeModalBtn" class="modal-close">&times;</button>
+      </div>
+      <div id="modalBody" class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast"></div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2026 Direktori Outlet Esteh Indonesia • Ringan, Cepat & Terverifikasi GPS</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="app.js"></script>
+</body>
+</html>

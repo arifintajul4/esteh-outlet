@@ -1,0 +1,12 @@
+{
+  "name": "esteh-outlet-finder",
+  "version": "1.0.0",
+  "description": "Pencari Outlet Resmi Esteh Indonesia dengan GPS & Peta Ringan",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["esteh", "outlet", "gps", "indonesia"],
+  "author": "Tajul",
+  "license": "MIT"
+}
